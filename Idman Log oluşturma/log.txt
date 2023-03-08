@@ -1,0 +1,9 @@
+İdman Programı
+Burpee Sayısı: 50 
+Push up Sayısı: 50 
+Sit up Sayısı: 50 
+Squat Sayısı: 50 
+1. işlem --------> Hareket: Burpee Sayı: 50 
+2. işlem --------> Hareket: Squat Sayı: 50 
+3. işlem --------> Hareket: Situp Sayı: 50 
+4. işlem --------> Hareket: Pushup Sayı: 50 
